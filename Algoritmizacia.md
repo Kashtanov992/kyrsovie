@@ -5,3 +5,4 @@ https://github.com/Kashtanov992/stepik-kyrs
 Это коды из курса по степику в пачарм 
 
 Тема курсвовой 32 Ошибки и обработка исключений в питон  
+https://docs.google.com/document/d/1IZ5PM9GJVLAGbVN_qj7nVevD67tMeCwY3hpCeGKq0lc/edit?usp=sharing
